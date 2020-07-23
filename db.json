@@ -7,7 +7,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/victorstuber/128.jpg",
         "address":"5481 Alba Lane",
         "isMale":false,
-        "status":74
+        "status":74,
         "dayWorking": 2
      },
      {
@@ -17,7 +17,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/hugocornejo/128.jpg",
         "address":"002 Dalton Point",
         "isMale":false,
-        "status":57
+        "status":57,
         "dayWorking": 20
      },
      {
@@ -27,7 +27,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/mighty55/128.jpg",
         "address":"7905 Bradtke Passage",
         "isMale":false,
-        "status":79
+        "status":79,
         "dayWorking": 120
      },
      {
@@ -37,7 +37,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/coreyginnivan/128.jpg",
         "address":"125 Cristobal Prairie",
         "isMale":false,
-        "status":32
+        "status":32,
         "dayWorking": 200
      },
      {
@@ -47,7 +47,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/kaysix_dizzy/128.jpg",
         "address":"4036 Lenna Flat",
         "isMale":false,
-        "status":31
+        "status":31,
         "dayWorking": 300
      },
      {
@@ -57,7 +57,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/danthms/128.jpg",
         "address":"8829 Baumbach Alley",
         "isMale":false,
-        "status":43
+        "status":43,
         "dayWorking": 400
      },
      {
@@ -67,7 +67,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/doooon/128.jpg",
         "address":"89738 Gust Loop",
         "isMale":false,
-        "status":74
+        "status":74,
         "dayWorking": 26
      },
      {
@@ -77,7 +77,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/shadeed9/128.jpg",
         "address":"25025 Adams Track",
         "isMale":false,
-        "status":58
+        "status":58,
          "dayWorking": 111
      },
      {
@@ -87,7 +87,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/duck4fuck/128.jpg",
         "address":"477 Dach Land",
         "isMale":false,
-        "status":53
+        "status":53,
         "dayWorking": 80
      },
      {
@@ -97,7 +97,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/joki4/128.jpg",
         "address":"24847 Gleason Meadows",
         "isMale":false,
-        "status":45
+        "status":45,
         "dayWorking": 120
      },
      {
@@ -107,7 +107,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/zauerkraut/128.jpg",
         "address":"663 Ceasar Vista",
         "isMale":false,
-        "status":93
+        "status":93,
         "dayWorking": 98
      },
      {
@@ -117,7 +117,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/S0ufi4n3/128.jpg",
         "address":"166 Amani Cliffs",
         "isMale":false,
-        "status":82
+        "status":82,
         "dayWorking": 110
      },
      {
@@ -127,7 +127,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/chrisvanderkooi/128.jpg",
         "address":"83768 Robyn View",
         "isMale":false,
-        "status":41
+        "status":41,
         "dayWorking": 8
      },
      {
@@ -137,7 +137,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/naitanamoreno/128.jpg",
         "address":"4334 Feil Loaf",
         "isMale":false,
-        "status":35
+        "status":35,
         "dayWorking": 500
      },
      {
@@ -147,7 +147,7 @@
         "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/axel/128.jpg",
         "address":"7593 Madge Lakes",
         "isMale":false,
-        "status":83
+        "status":83,
         "dayWorking": 360
      }
   ]
