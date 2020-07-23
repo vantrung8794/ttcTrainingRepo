@@ -1,0 +1,154 @@
+{ 
+  "employees": [
+     {
+        "id":"1",
+        "createdAt":"2020-07-14T23:50:30.367Z",
+        "name":"Alek Hoppe",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/victorstuber/128.jpg",
+        "address":"5481 Alba Lane",
+        "isMale":false,
+        "status":74
+        "dayWorking": 2
+     },
+     {
+        "id":"2",
+        "createdAt":"2020-07-14T23:15:09.243Z",
+        "name":"Ms. Justen O'Hara",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/hugocornejo/128.jpg",
+        "address":"002 Dalton Point",
+        "isMale":false,
+        "status":57
+        "dayWorking": 20
+     },
+     {
+        "id":"3",
+        "createdAt":"2020-07-15T00:18:55.149Z",
+        "name":"Elenor Luettgen",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/mighty55/128.jpg",
+        "address":"7905 Bradtke Passage",
+        "isMale":false,
+        "status":79
+        "dayWorking": 120
+     },
+     {
+        "id":"4",
+        "createdAt":"2020-07-14T21:48:22.462Z",
+        "name":"Mr. Eleanora Miller",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/coreyginnivan/128.jpg",
+        "address":"125 Cristobal Prairie",
+        "isMale":false,
+        "status":32
+        "dayWorking": 200
+     },
+     {
+        "id":"5",
+        "createdAt":"2020-07-14T17:12:48.332Z",
+        "name":"Davonte Torphy",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/kaysix_dizzy/128.jpg",
+        "address":"4036 Lenna Flat",
+        "isMale":false,
+        "status":31
+        "dayWorking": 300
+     },
+     {
+        "id":"6",
+        "createdAt":"2020-07-15T05:56:15.304Z",
+        "name":"Breana Johnson",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/danthms/128.jpg",
+        "address":"8829 Baumbach Alley",
+        "isMale":false,
+        "status":43
+        "dayWorking": 400
+     },
+     {
+        "id":"7",
+        "createdAt":"2020-07-14T12:01:01.711Z",
+        "name":"Miss Randy Miller",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/doooon/128.jpg",
+        "address":"89738 Gust Loop",
+        "isMale":false,
+        "status":74
+        "dayWorking": 26
+     },
+     {
+        "id":"8",
+        "createdAt":"2020-07-15T07:59:34.634Z",
+        "name":"Kadin Kulas Sr.",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/shadeed9/128.jpg",
+        "address":"25025 Adams Track",
+        "isMale":false,
+        "status":58
+         "dayWorking": 111
+     },
+     {
+        "id":"9",
+        "createdAt":"2020-07-15T07:47:01.863Z",
+        "name":"Mr. Amely Bogisich",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/duck4fuck/128.jpg",
+        "address":"477 Dach Land",
+        "isMale":false,
+        "status":53
+        "dayWorking": 80
+     },
+     {
+        "id":"10",
+        "createdAt":"2020-07-15T07:53:42.354Z",
+        "name":"Ashleigh Corkery",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/joki4/128.jpg",
+        "address":"24847 Gleason Meadows",
+        "isMale":false,
+        "status":45
+        "dayWorking": 120
+     },
+     {
+        "id":"11",
+        "createdAt":"2020-07-14T14:35:04.436Z",
+        "name":"Norberto Reilly",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/zauerkraut/128.jpg",
+        "address":"663 Ceasar Vista",
+        "isMale":false,
+        "status":93
+        "dayWorking": 98
+     },
+     {
+        "id":"12",
+        "createdAt":"2020-07-14T18:41:16.463Z",
+        "name":"Lydia Hayes",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/S0ufi4n3/128.jpg",
+        "address":"166 Amani Cliffs",
+        "isMale":false,
+        "status":82
+        "dayWorking": 110
+     },
+     {
+        "id":"13",
+        "createdAt":"2020-07-14T17:15:41.192Z",
+        "name":"Kareem Harber",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/chrisvanderkooi/128.jpg",
+        "address":"83768 Robyn View",
+        "isMale":false,
+        "status":41
+        "dayWorking": 8
+     },
+     {
+        "id":"14",
+        "createdAt":"2020-07-14T16:54:34.223Z",
+        "name":"Freda Kilback",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/naitanamoreno/128.jpg",
+        "address":"4334 Feil Loaf",
+        "isMale":false,
+        "status":35
+        "dayWorking": 500
+     },
+     {
+        "id":"15",
+        "createdAt":"2020-07-15T06:25:58.762Z",
+        "name":"Linnie Stamm",
+        "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/axel/128.jpg",
+        "address":"7593 Madge Lakes",
+        "isMale":false,
+        "status":83
+        "dayWorking": 360
+     }
+  ]
+}
